@@ -72,4 +72,4 @@
 
 [![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)](#bottom)
 
-[⬆️ Go to top](#top)
+[![Linkedin](https://img.shields.io/badge/-⬆️ Go to top?style=for-the-badge&labelColor=0077B5&Color=FFFFFF)](#top)

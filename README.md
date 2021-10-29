@@ -15,8 +15,6 @@
 
 ![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)
 
-<br>
-
 ### Contact Me: ###
 
 <br>
@@ -30,6 +28,8 @@
 <a href="https://www.alanpatrickk.net/" target="_blank">
     <img src="https://www.alanpatrickk.net/assets/uploads/2021/03/logo.png" alt="alanpatrickk.net" width="150" height="30">
 </a>
+
+<br>
 
 <br>
 

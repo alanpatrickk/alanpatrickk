@@ -1,4 +1,4 @@
-![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)
+[![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)](#top)
 
 ##### Hey, 👋
 ### Alan Patrick | 25 yo ###
@@ -13,7 +13,7 @@
 
 <br>
 
-![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)
+[![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)](#contact)
 
 ### Contact Me: ###
 
@@ -33,7 +33,7 @@
 
 <br>
 
-![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)
+[![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)](#tools)
 
 ### Languages and Tools: ###
 
@@ -56,7 +56,7 @@
 
 <br>
 
-![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)
+[![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)](#study)
 
 ### Currently Studying: ###
 
@@ -70,5 +70,5 @@
 
 <br>
 
-![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)
+[![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)](#bottom)
 

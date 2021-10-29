@@ -1,7 +1,7 @@
+![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)
+
 ##### Hey, 👋
 ### Alan Patrick | 25 yo ###
-
-![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)
 
 <br>
 
@@ -17,9 +17,19 @@
 
 <br>
 
+### Contact Me: ###
+
+<br>
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&labelColor=0077B5&logo=Linkedin&Color=FFFFFF)](https://www.linkedin.com/in/alanpatrickk/)
 [![Twitter](https://img.shields.io/badge/-WhatsApp-128C7E?style=for-the-badge&labelColor=128C7E&logo=WhatsApp&logoColor=FFFFFF&Color=111111)](https://wa.me/5541992473307)
 [![Instagram](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=Instagram&logoColor=FFFFFF&Color=111111)](https://instagram.com/alanpatrickk)
+
+<br>
+
+<a href="https://www.alanpatrickk.net/" target="_blank">
+    <img src="https://www.alanpatrickk.net/assets/uploads/2021/03/logo.png" alt="alanpatrickk.net" width="150" height="30">
+</a>
 
 <br>
 
@@ -62,6 +72,3 @@
 
 ![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)
 
-<br>
-
-[![alanpatrickk.net](https://www.alanpatrickk.net/assets/uploads/2021/03/logo.png)](https://www.alanpatrickk.net/)

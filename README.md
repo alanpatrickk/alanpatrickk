@@ -27,6 +27,8 @@
 
 ### Languages and Tools: ###
 
+<br>
+
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50">
@@ -42,9 +44,13 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg" alt="mysql" width="50" height="50">
 </p>
 
+<br>
+
 ![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)
 
 ### Currently Studying: ###
+
+<br>
 
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50">
@@ -52,6 +58,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="react" width="50" height="50">
 </p>
 
+<br>
+
 ![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)
+
+<br>
 
 [![alanpatrickk.net](https://www.alanpatrickk.net/assets/uploads/2021/03/logo.png)](https://www.alanpatrickk.net/)

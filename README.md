@@ -72,3 +72,4 @@
 
 [![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)](#bottom)
 
+[⬆️ Go to top](#top)

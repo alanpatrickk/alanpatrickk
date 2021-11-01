@@ -7,11 +7,11 @@
 
 <br>
 
-- 💻 Sou empreendedor e trabalho como front-end e designer freela
-- 🚀 Atualmente estudando novas tecnologias, como ReactJS e ReactNative 
-- 👯 Em busca de novos desafios e oportunidades na área de dev front-end
-- 💬 Pergunte-me sobre: WordPress, HTML, CSS, SCSS, jQuery, Photoshop, Illustrator [...]
-- ⚡ Curiosidades: tenho uma filha de 3 anos | sou apaixonado por tecnologia | curto jogar um futebolzinho
+- 💻 I'm an entrepreneur and work as a front-end and freelance designer
+- 🚀 Currently studying new technologies such as ReactJS and ReactNative 
+- 👯 Looking for new challenges and opportunities in the front-end dev area
+- 💬 Ask me about: WordPress, HTML, CSS, SCSS, jQuery, Photoshop, Illustrator [...]
+- ⚡ Curiosities: I have a 3 year old daughter | am passionate about technology | I like playing soccer
 
 <br>
 
@@ -28,7 +28,7 @@
 <br>
 
 <a href="https://www.alanpatrickk.net/" target="_blank">
-    <img src="https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/alanpatrickk.png" alt="alanpatrickk.net" width="25" height="67">
+    <img src="https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/alanpatrickk.png" alt="alanpatrickk.net" width="250" height="67">
 </a>
 
 <br>

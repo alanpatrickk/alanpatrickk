@@ -26,7 +26,7 @@
 <br>
 
 <a href="https://www.alanpatrickk.net/" target="_blank">
-    <img src="https://www.alanpatrickk.net/assets/uploads/2021/03/logo.png" alt="alanpatrickk.net" width="150" height="30">
+    <img src="https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/alanpatrickk.png" alt="alanpatrickk.net" width="25" height="67">
 </a>
 
 <br>

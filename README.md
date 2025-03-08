@@ -20,10 +20,8 @@
 
 <br>
 
-[![Twitter](https://img.shields.io/badge/-WhatsApp-149c8c?style=for-the-badge&labelColor=0f756a&logo=whatsapp&logoColor=ffffff)](https://wa.me/5541992473307)
-‎‏‏‎ ‎
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=for-the-badge&labelColor=912663&logo=instagram&logoColor=ffffff)](https://instagram.com/alanpatrickk) 
-‎‎‎‏‏‎ ‎
+[![Twitter](https://img.shields.io/badge/-WhatsApp-149c8c?style=for-the-badge&labelColor=0f756a&logo=whatsapp&logoColor=ffffff)](https://wa.me/5541992473307)‎‏‏‎ ‎
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=for-the-badge&labelColor=912663&logo=instagram&logoColor=ffffff)](https://instagram.com/alanpatrickk)‎‎‎‏‏‎ ‎
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0076b5?style=for-the-badge&labelColor=02669c&logo=invision&logoColor=ffffff)](https://www.linkedin.com/in/alanpatrickk/) 
 
 <br>

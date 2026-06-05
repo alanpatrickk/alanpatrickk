@@ -3,14 +3,14 @@
 [![------------------------------------](https://raw.githubusercontent.com/alanpatrickk/alanpatrickk/main/assets/gradient.png)](#top)
 
 ##### Hey, 👋
-### Alan Patrick | 29 yo ###
+### Alan Patrick | 30 yo ###
 
 <br>
 
 - 💻 I'm an entrepreneur and work as a front-end and freelance designer
 - 🚀 Currently studying new technologies such as ReactJS and ReactNative 
 - 💬 Ask me about: WordPress, HTML, CSS, SCSS, VueJS, NuxtJS [...]
-- ⚡ Curiosities: I have a 6 year old daughter / I love technology
+- ⚡ Curiosities: I have a 7 year old daughter / I love technology
 
 <br>
 
